@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import caveman from "../images/caveman.svg"
 import {button} from "../components/jss/cvcss"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 
 class ErrorBoundary extends Component {
   constructor(props) {

@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import fly_menu from "./FlyMenuEmotion"
 
 import styled from "@emotion/styled"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import { close_icon } from "../jss/cvcss"
 
 class FlyMenu extends Component {

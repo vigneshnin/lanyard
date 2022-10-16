@@ -1,4 +1,4 @@
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 
 import { shadows, media } from "../jss/cvcss"
 import Variables from "../jss/Variables"

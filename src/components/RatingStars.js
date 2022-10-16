@@ -1,5 +1,5 @@
 import React, { useState, useEffect, Fragment } from "react"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 
 import { media } from "./jss/cvcss"
 

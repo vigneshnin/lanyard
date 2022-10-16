@@ -3,7 +3,7 @@ import { navigate } from "gatsby"
 import four_o_four from "../images/404.svg"
 import { button } from "../components/jss/cvcss"
 import SEO from "../components/seo"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import "../css/site.css"
 
 const NotFoundPage = () => (

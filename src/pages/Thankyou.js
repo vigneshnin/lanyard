@@ -1,6 +1,6 @@
 import React from "react"
 import { navigate } from "gatsby"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import { button } from "../components/jss/cvcss"
 import "../css/site.css"
 

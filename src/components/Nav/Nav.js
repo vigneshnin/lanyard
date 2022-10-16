@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import { Link, navigate, useStaticQuery, graphql } from "gatsby"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import { media } from "../jss/cvcss"
 import _ from "lodash"
 

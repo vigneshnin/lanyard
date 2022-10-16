@@ -1,5 +1,5 @@
 import React, { Fragment } from "react"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import _ from "lodash"
 
 import RatingStars from "./RatingStars"

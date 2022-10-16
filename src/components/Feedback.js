@@ -1,6 +1,6 @@
 import React, { useState, Fragment, useEffect } from "react"
 import { Link, navigate } from "gatsby"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import styled from "@emotion/styled"
 import { API } from "aws-amplify"
 import _ from "lodash"

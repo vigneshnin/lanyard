@@ -1,5 +1,5 @@
 import React from "react"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import Variables from "../components/jss/Variables"
 import agenda from "../data/Agenda.json"
 import star from "../images/star-on.svg"

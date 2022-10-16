@@ -3,7 +3,7 @@ import {
   TransitionGroup,
   Transition as ReactTransition,
 } from "react-transition-group"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 
 
 const timeout = 0

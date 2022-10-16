@@ -1,5 +1,5 @@
 import React, { Fragment } from "react"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 
 import { media } from "../components/jss/cvcss"
 import EventCard from "../components/EventCard/EventCard"

@@ -1,6 +1,6 @@
 import React, { Fragment } from "react"
 import { navigate } from "gatsby"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import styled from "@emotion/styled"
 import SEO from "../components/seo"
 import Variables from "../components/jss/Variables"

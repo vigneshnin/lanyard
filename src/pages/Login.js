@@ -2,7 +2,7 @@ import React from "react"
 import { button, form_row } from "../components/jss/cvcss"
 import styled from "@emotion/styled"
 import Variables from "../components/jss/Variables"
-import { css } from "@emotion/core"
+import { css } from "@emotion/react"
 import { Auth } from "aws-amplify"
 import "../css/site.css"
 
