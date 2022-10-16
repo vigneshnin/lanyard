@@ -16,7 +16,7 @@ const AgendaPage = () => {
     setSlots(JSON.parse(localStorage.getItem("slots")))
   }, [])
 
-  //Filter out the sletected track and change the flag to "selected" and others to "notSelected"
+  //Filter out the selected track and change the flag to "selected" and others to "notSelected"
   function UpdatedTracks(filteredSlot, selectedTrack) {
     return filteredSlot.tracks.map(track => {
       if (track.trackId === selectedTrack.trackId) {
