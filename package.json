@@ -6,9 +6,9 @@
   "author": "StackTinkers",
   "dependencies": {
     "@emotion/react": "^11.10.4",
-    "@emotion/core": "^10.0.14",
-    "@emotion/styled": "^10.0.14",
-    "aws-amplify": "^1.1.32",
+    "@emotion/core": "^11.0.0",
+    "@emotion/styled": "^11.10.4",
+    "aws-amplify": "^4.3.39",
     "aws-amplify-react": "^5.1.9",
     "axios": "^0.19.2",
     "gatsby": "^4.24.4",
