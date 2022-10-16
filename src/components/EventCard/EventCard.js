@@ -168,7 +168,6 @@ const EventCard = () => {
                       <div
                         css={car_speakers}
                         className="car_speakers"
-                        className="speaker"
                       >
                         {track.speakers.map((speaker, idx) => (
                           <div

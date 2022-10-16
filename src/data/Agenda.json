@@ -6,8 +6,8 @@
         "img": "check-in",
         "room": null,
         "slotId": "slot-1",
-        "timeStart": 1581131700000,
-        "timeEnd": 1581134400000,
+        "timeStart": 1667008800000,
+        "timeEnd": 1667013300000,
         "slotFeedBack": false,
         "tracks": [
           {
@@ -15,7 +15,7 @@
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
-            "title": "Registration and Networking"
+            "title": "Registration and badge pickup"
           }
         ]
       },
@@ -24,8 +24,8 @@
         "img": "welcome",
         "room": null,
         "slotId": "slot-2",
-        "timeStart": 1581134400000,
-        "timeEnd": 1581135000000,
+        "timeStart": 1667013300000,
+        "timeEnd": 1667014200000,
         "slotFeedBack": false,
         "tracks": [
           {
@@ -42,8 +42,8 @@
         "img": "default",
         "room": null,
         "slotId": "slot-3",
-        "timeStart": 1581135300000,
-        "timeEnd": 1581138000000,
+        "timeStart": 1667014200000,
+        "timeEnd": 1667016900000,
         "slotFeedBack": false,
         "tracks": [
           {
@@ -51,14 +51,14 @@
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
-            "title": "Keynote: Alexa, What Can I Do Now?",
+            "title": "Keynote: Build for Resilience on AWS",
             "speakers": [
               {
-                "firstName": "Jeff",
-                "lastName": " Blankenburg",
-                "profilePicture": "jeff.jpg",
-                "designation": "Alexa Evangelist at Amazon (USA)",
-                "externalLink": "https://www.linkedin.com/in/jeffblankenburg/"
+                "firstName": "Mani",
+                "lastName": " Chandrasekaran",
+                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/manic.jpg",
+                "designation": "Principal Solutions Architect, AWS",
+                "externalLink": "https://www.linkedin.com/in/cmanikandan/"
               }
             ]
           }

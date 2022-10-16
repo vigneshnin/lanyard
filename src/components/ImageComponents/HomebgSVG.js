@@ -42,7 +42,7 @@ const HomebgSVG = props => (
           stopColor={
             Variables.dark_base_color_2
               ? Variables.dark_base_color_2
-              : "#FFC400"
+              : "#0e1b4d"
           }
         />
       </linearGradient>
@@ -64,7 +64,7 @@ const HomebgSVG = props => (
           stopColor={
             Variables.dark_base_color_2
               ? Variables.dark_base_color_2
-              : "#FFC400"
+              : "#0e1b4d"
           }
         />
       </linearGradient>
@@ -86,7 +86,7 @@ const HomebgSVG = props => (
           stopColor={
             Variables.dark_base_color_2
               ? Variables.dark_base_color_2
-              : "#FFC400"
+              : "#0e1b4d"
           }
         />
       </linearGradient>

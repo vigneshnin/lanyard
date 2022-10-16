@@ -1,7 +1,7 @@
 import config from "../../data/BaseConfig.json"
 
 const Variables = {
-  text_primary_color: `#333333`,
+  text_primary_color: `#0e1b4d`,
   dark_base_color: config.eventSolidColor,
   light_bc: `#f5ddb9`,
   dark_base_color_2: LightenDarkenColor(config.eventSolidColor,50),
@@ -25,7 +25,7 @@ const Variables = {
   wb_green: `#4caf50`,
   wb_red: `#f44336`,
   wb_blue: `#2196f3`,
-  wb_orange: `#ff9834`,
+  wb_orange: `#ff9900`,
 
   gutter_width: `25px`,
   gutter_width_more: `50px`,
