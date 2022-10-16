@@ -9,6 +9,8 @@ import "../css/site.css"
 
 import { close_icon } from "../components/jss/cvcss"
 
+const _ = require("lodash")
+
 const AgendaPage = () => {
   const [slots, setSlots] = useState([])
 
