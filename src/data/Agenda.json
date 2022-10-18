@@ -38,7 +38,7 @@
               {
                 "firstName": "M S Sujith",
                 "lastName": " Unni",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/sujithunni2.jpg",
+                "profilePicture": "sujithunni.jpg",
                 "designation": "Regional Head, NASSCOM",
                 "externalLink": "https://www.linkedin.com/in/sujithunnims/"
               }
@@ -65,7 +65,7 @@
               {
                 "firstName": "Mani",
                 "lastName": " Chandrasekaran",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/manic.jpg",
+                "profilePicture": "manic.jpg",
                 "designation": "Principal Solutions Architect, AWS",
                 "externalLink": "https://www.linkedin.com/in/cmanikandan/"
               }
@@ -92,14 +92,14 @@
               {
                 "firstName": "Gustavo",
                 "lastName": " Recio",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/gustavo.jpg",
+                "profilePicture": "gustavo.jpg",
                 "designation": "Software Architect, Mindcurv",
                 "externalLink": "https://www.linkedin.com/in/gustavo-recio-6697312/"
               },
               {
                 "firstName": "Giriraj",
                 "lastName": " Rajasekharan",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/giriraj.jpg",
+                "profilePicture": "giriraj.jpg",
                 "designation": "Cloud Infrastructure Architect, Mindcurv",
                 "externalLink": "https://www.linkedin.com/in/giriraj-rajasekharan-754b4046/"
               }
@@ -126,7 +126,7 @@
               {
                 "firstName": "Suresh",
                 "lastName": " Mathew",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/suresh.jpg",
+                "profilePicture": "suresh.jpg",
                 "designation": "Founder and CEO, Sedai",
                 "externalLink": "https://www.linkedin.com/in/sureshmathew/"
               }
@@ -169,7 +169,7 @@
               {
                 "firstName": "Dhaval",
                 "lastName": " Nagar",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/dhaval.jpg",
+                "profilePicture": "dhaval.jpg",
                 "designation": "AWS Serverless Hero, Solutions Architect, APPGAMBIT",
                 "externalLink": "https://www.linkedin.com/in/dhavaln/"
               }
@@ -185,7 +185,7 @@
               {
                 "firstName": "Prithvi",
                 "lastName": " Raj",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/prithviraj.jpg",
+                "profilePicture": "prithviraj.jpg",
                 "designation": "Technical Community Manager, Harness",
                 "externalLink": "https://www.linkedin.com/in/prithvi1307/"
               }
@@ -211,7 +211,7 @@
               {
                 "firstName": "Deepika",
                 "lastName": " Nair",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/deepika.jpg",
+                "profilePicture": "deepika.jpg",
                 "designation": "Training Delivery Manager, AWS",
                 "externalLink": "https://www.linkedin.com/in/deepikanair-aws/"
               }
@@ -227,7 +227,7 @@
               {
                 "firstName": "Ansil",
                 "lastName": " H",
-                "profilePicture": "mani.jpg",
+                "profilePicture": "ansilh.jpg",
                 "designation": "Lead Site Reliability Engineer, Armorblox",
                 "externalLink": "https://www.linkedin.com/in/ansilh/"
               }
@@ -270,7 +270,7 @@
               {
                 "firstName": "Vivek",
                 "lastName": " Raja P S",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/vivekraja.jpg",
+                "profilePicture": "vivekraja.jpg",
                 "designation": "Vice President of Products, NexStem",
                 "externalLink": "https://www.linkedin.com/in/vivek0712/"
               }
@@ -286,7 +286,7 @@
               {
                 "firstName": "Sujith",
                 "lastName": " Sukumaran",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/sujith_sukumaran.jpg",
+                "profilePicture": "sujith_sukumaran.jpg",
                 "designation": "AWS Community Builder, Manager Quality Engineering, Testlio",
                 "externalLink": "https://www.linkedin.com/in/sukumaransujith/"
               }
@@ -312,7 +312,7 @@
               {
                 "firstName": "Arunjith",
                 "lastName": " Aravindan",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/arunjith.jpg",
+                "profilePicture": "arunjith.jpg",
                 "designation": "Senior MySQL DBA, Percona",
                 "externalLink": "https://www.linkedin.com/in/arunjith-a-0b9b4652/"
               }
@@ -328,7 +328,7 @@
               {
                 "firstName": "Jayesh",
                 "lastName": " Bapu Ahire",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/Jayesh.jpg",
+                "profilePicture": "Jayesh.jpg",
                 "designation": "Founding Product Manager, TraceableAI",
                 "externalLink": "https://www.linkedin.com/in/jayesh-ahire/"
               }
@@ -354,7 +354,7 @@
               {
                 "firstName": "Megha",
                 "lastName": "Arora",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/meghaaurora.jpg",
+                "profilePicture": "meghaaurora.jpg",
                 "designation": "Staff Developer Advocate, MongoDB",
                 "externalLink": "https://www.linkedin.com/in/arora-megha/"
               }
@@ -370,7 +370,7 @@
               {
                 "firstName": "Runcy",
                 "lastName": "Oommen",
-                "profilePicture": "https://communityday.awsugkochi.in/assets/img/speakers/runcy.jpg",
+                "profilePicture": "runcy.jpg",
                 "designation": "Director, Software Engineering SonicWall",
                 "externalLink": "https://www.linkedin.com/in/runcyoommen/"
               }

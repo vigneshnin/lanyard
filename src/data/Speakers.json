@@ -2,30 +2,143 @@
     {
       "Speakers": [
         {
-          "firstName": "Suneet",
-          "lastName": "Patil",
-          "profileLink": "https://www.linkedin.com/in/suneet-patil/?originalSubdomain=in",
-          "profileImageFileName": "suneet.jpeg"
+          "firstName": "Mani",
+          "lastName": "Chandrasekaran",
+          "profileLink": "https://www.linkedin.com/in/cmanikandan/",
+          "profileImageFileName": "manic.jpg"
         },
         {
-          "firstName": "Ilanchezhian",
-          "lastName": "Ganesamurthy",
-          "profileLink": "https://www.linkedin.com/in/ilanchezhian/",
-          "profileImageFileName": "Ilanchezhian.jpeg"
+          "firstName": "MS Sujith",
+          "lastName": "Unni",
+          "profileLink": "https://www.linkedin.com/in/sujithunnims/",
+          "profileImageFileName": "sujithunni.jpg"
         },
         {
-          "firstName": "Leslie",
-          "lastName": "Correa",
-          "profileLink": "https://www.linkedin.com/in/leslie-correa-543545a1/",
-          "profileImageFileName": "Leslie Correa.jpeg"
+          "firstName": "Gustavo",
+          "lastName": "Recio",
+          "profileLink": "https://es.linkedin.com/in/gustavo-recio-6697312",
+          "profileImageFileName": "gustavo.jpg"
         },
         {
-          "firstName": "Anup",
-          "lastName": "Narayana",
-          "profileLink": "https://www.linkedin.com/in/anup-narayana-b8a559123/",
-          "profileImageFileName": "anup.jpeg"
+          "firstName": "Suresh",
+          "lastName": "Mathew",
+          "profileLink": "https://www.linkedin.com/in/sureshmathew/",
+          "profileImageFileName": "suresh.jpg"
+        },
+        {
+          "firstName": "Jones Zachariah",
+          "lastName": "Noel",
+          "profileLink": "https://www.linkedin.com/in/jones-zachariah-noel-n",
+          "profileImageFileName": "jonesnoel.jpg"
+        },
+        {
+          "firstName": "Megha",
+          "lastName": "Arora",
+          "profileLink": "https://www.linkedin.com/in/arora-megha",
+          "profileImageFileName": "meghaaurora.jpg"
+        },
+        {
+          "firstName": "Prithvi",
+          "lastName": "Raj",
+          "profileLink": "https://www.linkedin.com/in/prithvi1307/",
+          "profileImageFileName": "prithviraj.jpg"
+        },
+        {
+          "firstName": "Sujith",
+          "lastName": "Sukumaran",
+          "profileLink": "https://www.linkedin.com/in/sukumaransujith",
+          "profileImageFileName": "sujith_sukumaran.jpg"
+        },
+        {
+          "firstName": "Vivek",
+          "lastName": "Raja P S",
+          "profileLink": "https://www.linkedin.com/in/VivekRaja007",
+          "profileImageFileName": "vivekraja.jpg"
+        },
+        {
+          "firstName": "Arunjith",
+          "lastName": "Aravindan",
+          "profileLink": "https://www.linkedin.com/in/arunjith-a-0b9b4652/",
+          "profileImageFileName": "arunjith.jpg"
+        },
+        {
+          "firstName": "Ansil",
+          "lastName": "H",
+          "profileLink": "https://www.linkedin.com/in/ansilh/",
+          "profileImageFileName": "ansilh.jpg"
+        },
+        {
+          "firstName": "Deepika",
+          "lastName": "Nair",
+          "profileLink": "https://www.linkedin.com/in/deepikanair-aws/",
+          "profileImageFileName": "deepika.jpg"
+        },
+        {
+          "firstName": "Dhaval",
+          "lastName": "Nagar",
+          "profileLink": "https://www.linkedin.com/in/dhavaln/",
+          "profileImageFileName": "dhaval.jpg"
+        },
+        {
+          "firstName": "Jayesh Bapu",
+          "lastName": "Ahire",
+          "profileLink": "https://www.linkedin.com/in/jayesh-ahire/",
+          "profileImageFileName": "Jayesh.jpg"
+        },
+        {
+          "firstName": "Aman",
+          "lastName": "Narayan",
+          "profileLink": "https://www.linkedin.com/in/aman-n1/",
+          "profileImageFileName": "Aman.jpg"
+        },
+        {
+          "firstName": "Ashmil",
+          "lastName": "Hussain",
+          "profileLink": "https://www.linkedin.com/in/ashmil-hussain-444906a2/",
+          "profileImageFileName": "Ashmil.jpg"
+        },
+        {
+          "firstName": "Vishwas",
+          "lastName": "Navada K",
+          "profileLink": "https://www.linkedin.com/in/vishwasnavadak/",
+          "profileImageFileName": "Vishwas.jpg"
+        },
+        {
+          "firstName": "Runcy",
+          "lastName": "Oommen",
+          "profileLink": "https://www.linkedin.com/in/runcyoommen/",
+          "profileImageFileName": "runcy.jpg"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Sterz",
+          "profileLink": "https://www.linkedin.com/in/david-sterz-679a938/",
+          "profileImageFileName": "David.jpg"
+        },
+        {
+          "firstName": "Giriraj",
+          "lastName": "R",
+          "profileLink": "https://www.linkedin.com/in/giriraj-rajasekharan-754b4046/",
+          "profileImageFileName": "giriraj.jpg"
+        },
+        {
+          "firstName": "Binu",
+          "lastName": "Sebastian",
+          "profileLink": "https://www.linkedin.com/in/binu-sebastian-2a0aa8131",
+          "profileImageFileName": "binu.jpg"
+        },
+        {
+          "firstName": "Karan",
+          "lastName": "M V",
+          "profileLink": "https://www.linkedin.com/in/mvkaran",
+          "profileImageFileName": "karan.jpg"
+        },
+        {
+          "firstName": "Shloka",
+          "lastName": "Bhalgat",
+          "profileLink": "https://www.linkedin.com/in/shlokabhalgat/",
+          "profileImageFileName": "shloka.jpg"
         }
-        
       ]
     }
   ]
