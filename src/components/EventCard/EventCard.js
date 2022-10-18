@@ -137,7 +137,7 @@ const EventCard = () => {
                     <div>
                       {currentEvent.tracks.length > 1 ? (
                         <h4 css={card_now_text} className="card_now_text">
-                          <span>{`Track - ${index + 1}`} {index === 0 ? "(Audi)" : "(M-401)"}</span>{" "}
+                          <span>{`Track - ${index + 1}`} {index === 0 ? "(Session)" : "(Session)"}</span>{" "}
                           {track.selectedFlag === "selected" ? (
                             <small>This is in your schedule</small>
                           ) : null}
