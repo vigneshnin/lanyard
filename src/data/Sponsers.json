@@ -5,74 +5,105 @@
         "tierName": "platinum",
         "brands": [
           {
-            "sponserName": "Amazon Alexa",
-            "sponserWebsiteLink": "https://developer.amazon.com/en-US/alexa",
-            "sponserLogo": "alexa.png"
+            "sponserName": "Mindcurv Group",
+            "sponserWebsiteLink": "https://www.mindcurvgroup.com/",
+            "sponserLogo": "mindcurv.png"
           },
           {
-            "sponserName": "what3words",
-            "sponserWebsiteLink": "https://what3words.com/",
-            "sponserLogo": "w3w.png"
+            "sponserName": "HiFX",
+            "sponserWebsiteLink": "https://www.hifx.in/",
+            "sponserLogo": "HiFXlogo.png"
+          },
+          {
+            "sponserName": "Adfolks",
+            "sponserWebsiteLink": "https://www.adfolks.com/",
+            "sponserLogo": "Adfolks_logo.png"
+          },
+          {
+            "sponserName": "Sedai",
+            "sponserWebsiteLink": "https://www.sedai.io/",
+            "sponserLogo": "sedai.png"
           }
-          
         ]
       },
       {
         "tierName": "gold",
         "brands": [
           {
-            "sponserName": "Tieto Evry",
-            "sponserWebsiteLink": "https://evry.in/",
-            "sponserLogo": "evry.jpg"
+            "sponserName": "HooChat",
+            "sponserWebsiteLink": "https://hoo.chat/",
+            "sponserLogo": "hoochat.png"
+          },
+          {
+            "sponserName": "Neural Networks",
+            "sponserWebsiteLink": "https://www.neuralebiz.com/",
+            "sponserLogo": "neural_networks.png"
+          },
+          {
+            "sponserName": "Codemithra",
+            "sponserWebsiteLink": "https://codemithra.com/",
+            "sponserLogo": "codemithra.png"
           }
-          
         ]
       },
       {
         "tierName": "silver",
         "brands": [
           {
-            "sponserName": "BotMock",
-            "sponserWebsiteLink": "https://botmock.com/?utm_source=alexain&utm_medium=web&utm_campaign=alexa_in",
-            "sponserLogo": "botmock.png"
+            "sponserName": "Elastic",
+            "sponserWebsiteLink": "https://www.elastic.co/",
+            "sponserLogo": "elastic.png"
           },
           {
-            "sponserName": "DataVizz",
-            "sponserWebsiteLink": "https://datavizz.in/",
-            "sponserLogo": "datavizz.png"
+            "sponserName": "unSkript",
+            "sponserWebsiteLink": "https://unskript.com/",
+            "sponserLogo": "unskript.png"
+          },
+          {
+            "sponserName": "Coralogix",
+            "sponserWebsiteLink": "https://coralogix.com/",
+            "sponserLogo": "coralogix.png"
           }
-          
         ]
       },
       {
         "tierName": "community",
         "brands": [
           {
-            "sponserName": "Dabble Lab",
-            "sponserWebsiteLink": "https://dabblelab.com/",
-            "sponserLogo": "dabblelab.png"
+            "sponserName": "CNCF Kochi",
+            "sponserWebsiteLink": "https://community.cncf.io/kochi",
+            "sponserLogo": "cncfkochi.png"
           },
           {
-            "sponserName": "Konfhub",
+            "sponserName": "KonfHub",
             "sponserWebsiteLink": "https://konfhub.com/",
-            "sponserLogo": "konfhub.jpg"
+            "sponserLogo": "konfhub.png"
           },
           {
-            "sponserName": "Ant Stack",
-            "sponserWebsiteLink": "https://antstack.io/?utm_source=alexacommunityday&utm_medium=web&utm_campaign=alexacommunityday",
-            "sponserLogo": "antstackio.jpg"
-          },
-          {
-            "sponserName": "Voice Tech Podcast",
-            "sponserWebsiteLink": "https://voicetechpodcast.com/",
-            "sponserLogo": "voicetechp.png"
-          },
-          {
-            "sponserName": "Jet Brains",
+            "sponserName": "JetBrains",
             "sponserWebsiteLink": "https://www.jetbrains.com/",
-            "sponserLogo": "jetbrains.png"
+            "sponserLogo": "jb_beam.png"
+          },
+          {
+            "sponserName": "techbeatly",
+            "sponserWebsiteLink": "https://www.techbeatly.com/",
+            "sponserLogo": "techbeatly.png"
+          },
+          {
+            "sponserName": "TinkerHub",
+            "sponserWebsiteLink": "https://tinkerhub.org/",
+            "sponserLogo": "TinkerHub.svg"
+          },
+          {
+            "sponserName": "Devops Malayalam",
+            "sponserWebsiteLink": "https://devopsmalayalam.io/",
+            "sponserLogo": "DevOps_ML.png"
+          },
+          {
+            "sponserName": "hug Kochi",
+            "sponserWebsiteLink": "https://www.meetup.com/Kochi-HashiCorp-User-Group",
+            "sponserLogo": "hug.jpeg"
           }
-          
         ]
       }
     ]
