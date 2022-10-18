@@ -505,7 +505,7 @@
               {
                 "firstName": "Some",
                 "lastName": "Awesome People",
-                "profilePicture": "",
+                "profilePicture": "speaker.jpg",
                 "designation": "Awesome people, Awesome Company",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
@@ -527,7 +527,7 @@
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
-            "title": "Closing Note - Alexa Community Bengaluru Team"
+            "title": "Closing Notes"
           }
         ]
       }
