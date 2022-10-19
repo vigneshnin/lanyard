@@ -7,22 +7,22 @@
           {
             "sponserName": "Mindcurv Group",
             "sponserWebsiteLink": "https://www.mindcurvgroup.com/",
-            "sponserLogo": "mindcurv.png"
+            "sponserLogo": "sponsor-mindcurv.jpg"
           },
           {
             "sponserName": "HiFX",
             "sponserWebsiteLink": "https://www.hifx.in/",
-            "sponserLogo": "HiFXlogo.png"
+            "sponserLogo": "sponsor-hifx.jpg"
           },
           {
             "sponserName": "Adfolks",
             "sponserWebsiteLink": "https://www.adfolks.com/",
-            "sponserLogo": "Adfolks_logo.png"
+            "sponserLogo": "sponsor-adfolks.jpg"
           },
           {
             "sponserName": "Sedai",
             "sponserWebsiteLink": "https://www.sedai.io/",
-            "sponserLogo": "sedai.png"
+            "sponserLogo": "sponsor-sedai.jpg"
           }
         ]
       },
@@ -32,17 +32,17 @@
           {
             "sponserName": "HooChat",
             "sponserWebsiteLink": "https://hoo.chat/",
-            "sponserLogo": "hoochat.png"
+            "sponserLogo": "sponsor-hoochat.jpg"
           },
           {
             "sponserName": "Neural Networks",
             "sponserWebsiteLink": "https://www.neuralebiz.com/",
-            "sponserLogo": "neural_networks.png"
+            "sponserLogo": "sponsor-neuralbiz.jpg"
           },
           {
             "sponserName": "Codemithra",
             "sponserWebsiteLink": "https://codemithra.com/",
-            "sponserLogo": "codemithra.png"
+            "sponserLogo": "sponsor-codemitra.jpg"
           }
         ]
       },
@@ -52,57 +52,17 @@
           {
             "sponserName": "Elastic",
             "sponserWebsiteLink": "https://www.elastic.co/",
-            "sponserLogo": "elastic.png"
+            "sponserLogo": "sponsor-elastic.jpg"
           },
           {
             "sponserName": "unSkript",
             "sponserWebsiteLink": "https://unskript.com/",
-            "sponserLogo": "unskript.png"
+            "sponserLogo": "sponsor-unskript.jpg"
           },
           {
             "sponserName": "Coralogix",
             "sponserWebsiteLink": "https://coralogix.com/",
-            "sponserLogo": "coralogix.png"
-          }
-        ]
-      },
-      {
-        "tierName": "community",
-        "brands": [
-          {
-            "sponserName": "CNCF Kochi",
-            "sponserWebsiteLink": "https://community.cncf.io/kochi",
-            "sponserLogo": "cncfkochi.png"
-          },
-          {
-            "sponserName": "KonfHub",
-            "sponserWebsiteLink": "https://konfhub.com/",
-            "sponserLogo": "konfhub.png"
-          },
-          {
-            "sponserName": "JetBrains",
-            "sponserWebsiteLink": "https://www.jetbrains.com/",
-            "sponserLogo": "jb_beam.png"
-          },
-          {
-            "sponserName": "techbeatly",
-            "sponserWebsiteLink": "https://www.techbeatly.com/",
-            "sponserLogo": "techbeatly.png"
-          },
-          {
-            "sponserName": "TinkerHub",
-            "sponserWebsiteLink": "https://tinkerhub.org/",
-            "sponserLogo": "TinkerHub.png"
-          },
-          {
-            "sponserName": "Devops Malayalam",
-            "sponserWebsiteLink": "https://devopsmalayalam.io/",
-            "sponserLogo": "DevOps_ML.png"
-          },
-          {
-            "sponserName": "hug Kochi",
-            "sponserWebsiteLink": "https://www.meetup.com/Kochi-HashiCorp-User-Group",
-            "sponserLogo": "hug.jpeg"
+            "sponserLogo": "sponsor-coralogix.jpg"
           }
         ]
       }
