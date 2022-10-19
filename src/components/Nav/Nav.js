@@ -5,7 +5,7 @@ import { media } from "../jss/cvcss"
 import _ from "lodash"
 
 import menu from "../../images/menu.svg"
-import logo from "../../images/logo.svg"
+import logo from "../../images/aws_logo.png"
 import agenda from "../../images/agenda.svg"
 import FlyMenu from "../FlyMenu/FlyMenu"
 import Variables from "../jss/Variables"
@@ -43,18 +43,18 @@ const Nav = () => {
           </span>
         }
       >
-        <a css={lanyard_logo} target="_blank" href="https://www.lanyard.app/">
+        <a css={lanyard_logo} target="_blank" href="https://www.meetup.com/awsugkochi/">
           {siteTitle}
         </a>
         <ul css={sub_menu}>
           <li className="faq ico large">
-            <Link to="/Volunteers">Organizers</Link>
+            <Link to="/Speakers">Speakers</Link>
           </li>
           <li className="contact ico large">
             <Link to="/Sponsers">Sponsors</Link>
           </li>
           <li className="faq ico large">
-            <Link to="/Speakers">Speakers</Link>
+            <Link to="/Volunteers">Organizers</Link>
           </li>
 
           {/* <hr></hr>

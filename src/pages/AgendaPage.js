@@ -83,7 +83,7 @@ const agendaClose = css`
   bottom: 0;
   &:before,
   &:after {
-    background: ${Variables.dark_base_color};
+    background: white;
   }
 `
 const agendaHeader = css`

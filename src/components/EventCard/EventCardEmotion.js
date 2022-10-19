@@ -44,8 +44,8 @@ export const eventCard = css`
 `
 export const event_logo = css`
   img {
-    height: 100px;
-    width: auto;
+    display: flex;
+    align-items: center;
   }
 `
 export const event_title = css`

@@ -109,7 +109,7 @@ const CloseIcon = css`
   bottom: 0;
   &:before,
   &:after {
-    background: ${Variables.dark_base_color};
+    background: white;
   }
 `
 

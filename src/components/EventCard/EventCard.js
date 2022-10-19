@@ -247,9 +247,9 @@ const EventCard = () => {
 
           <div css={end_info}>
             <label>
-              Event has ended. Help us improve by providing feedback
+              Event has ended. Thank you for your support
             </label>
-            <RatingStars large overAllFeedback />
+            {/*<RatingStars large overAllFeedback />*/}
           </div>
         </Fragment>
       ) : (
