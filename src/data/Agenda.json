@@ -20,16 +20,34 @@
         ]
       },
       {
-        "eventType": "other",
-        "img": "welcome",
+        "eventType": "break",
+        "img": "check-in",
         "room": null,
         "slotId": "slot-2",
         "timeStart": 1667013300000,
-        "timeEnd": 1667014200000,
+        "timeEnd": 1667013900000,
         "slotFeedBack": false,
         "tracks": [
           {
             "trackId": "event2",
+            "selectedFlag": "default",
+            "trackLength": 4,
+            "feedBack": false,
+            "title": "Introduction - AWS User Group Kochi"
+          }
+        ]
+      },
+      {
+        "eventType": "other",
+        "img": "welcome",
+        "room": null,
+        "slotId": "slot-3",
+        "timeStart": 1667013900000,
+        "timeEnd": 1667014200000,
+        "slotFeedBack": false,
+        "tracks": [
+          {
+            "trackId": "event3",
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
@@ -50,13 +68,13 @@
         "eventType": "other",
         "img": "default",
         "room": null,
-        "slotId": "slot-3",
+        "slotId": "slot-4",
         "timeStart": 1667014200000,
         "timeEnd": 1667016900000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event3",
+            "trackId": "event4",
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
@@ -77,13 +95,13 @@
         "eventType": "other",
         "img": "default",
         "room": null,
-        "slotId": "slot-4",
+        "slotId": "slot-5",
         "timeStart": 1667016900000,
         "timeEnd": 1667017800000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event4",
+            "trackId": "event5",
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
@@ -111,13 +129,13 @@
         "eventType": "other",
         "img": "default",
         "room": null,
-        "slotId": "slot-5",
+        "slotId": "slot-6",
         "timeStart": 1667017800000,
         "timeEnd": 1667018700000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event5",
+            "trackId": "event6",
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
@@ -135,16 +153,43 @@
         ]
       },
       {
-        "eventType": "break",
-        "img": "tea_break",
+        "eventType": "other",
+        "img": "default",
         "room": null,
-        "slotId": "slot-6",
-        "timeStart": 1667020500000,
-        "timeEnd": 1667022300000,
+        "slotId": "slot-7",
+        "timeStart": 1667018700000,
+        "timeEnd": 1667019600000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event6",
+            "trackId": "event7",
+            "selectedFlag": "default",
+            "trackLength": 4,
+            "feedBack": false,
+            "title": "Sometopic",
+            "speakers": [
+              {
+                "firstName": "Unknown",
+                "lastName": " Speaker",
+                "profilePicture": "speaker.jpg",
+                "designation": "Adfolks",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventType": "break",
+        "img": "tea_break",
+        "room": null,
+        "slotId": "slot-8",
+        "timeStart": 1667019600000,
+        "timeEnd": 1667021400000,
+        "slotFeedBack": false,
+        "tracks": [
+          {
+            "trackId": "event8",
             "selectedFlag": "default",
             "trackLength": 4,
             "title": "Morning Tea Break - Go grab a cup of tea and visit our sponsors booths"
@@ -154,13 +199,13 @@
       {
         "eventType": "talk",
         "room": null,
-        "slotId": "slot-7",
-        "timeStart": 1667022300000,
-        "timeEnd": 1667024100000,
+        "slotId": "slot-9",
+        "timeStart": 1667021400000,
+        "timeEnd": 1667022900000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event7",
+            "trackId": "event9",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -176,7 +221,7 @@
             ]
           },
           {
-            "trackId": "event8",
+            "trackId": "event10",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -190,19 +235,35 @@
                 "externalLink": "https://www.linkedin.com/in/prithvi1307/"
               }
             ]
+          },
+          {
+            "trackId": "event11",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Live Migration to MongoDB Atlas on AWS",
+            "speakers": [
+              {
+                "firstName": "Shloka",
+                "lastName": " Bhalgat",
+                "profilePicture": "shloka.jpg",
+                "designation": "Technical Community Manager, Harness",
+                "externalLink": "https://www.linkedin.com/in/prithvi1307/"
+              }
+            ]
           }
         ]
       },
       {
         "eventType": "talk",
         "room": null,
-        "slotId": "slot-8",
-        "timeStart": 1667024100000,
-        "timeEnd": 1667025900000,
+        "slotId": "slot-10",
+        "timeStart": 1667023200000,
+        "timeEnd": 1667024700000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event9",
+            "trackId": "event12",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -218,7 +279,23 @@
             ]
           },
           {
-            "trackId": "event10",
+            "trackId": "event13",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Kubernetes Observability with eBPF",
+            "speakers": [
+              {
+                "firstName": "Ashmil",
+                "lastName": " Hussain",
+                "profilePicture": "Ashmil.jpg",
+                "designation": "Senior Software Engineer, Adfolks",
+                "externalLink": "https://www.linkedin.com/in/ashmil-hussain-444906a2/"
+              }
+            ]
+          },
+          {
+            "trackId": "event14",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -238,13 +315,13 @@
       {
         "eventType": "talk",
         "room": null,
-        "slotId": "slot-9",
-        "timeStart": 1667024100000,
-        "timeEnd": 1667025900000,
+        "slotId": "slot-11",
+        "timeStart": 1667025000000,
+        "timeEnd": 1667026500000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event11",
+            "trackId": "event15",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -252,7 +329,7 @@
             "speakers": [
               {
                 "firstName": "Jones Zachariah",
-                "lastName": " Noel",
+                "lastName": " Noel N",
                 "profilePicture": "jonesnoel.jpg",
                 "designation": "Sr Developer Advocate, Freshwork",
                 "externalLink": "https://www.linkedin.com/in/jones-zachariah-noel-n/"
@@ -260,33 +337,23 @@
             ]
           },
           {
-            "trackId": "event12",
+            "trackId": "event16",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Kubernetes Observability with eBPF",
+            "title": "How to run containers without ruining your business or the planet using FinOps",
             "speakers": [
               {
-                "firstName": "Ashmil",
-                "lastName": " Hussain",
-                "profilePicture": "Ashmil.jpg",
-                "designation": "Senior Software Engineer, Adfolks",
-                "externalLink": "https://www.linkedin.com/in/ashmil-hussain-444906a2/"
+                "firstName": "David",
+                "lastName": " Sterz",
+                "profilePicture": "David.jpg",
+                "designation": "Solutions Architect / FinOps, Mindcurv Group",
+                "externalLink": "https://www.linkedin.com/in/david-sterz-679a938/"
               }
             ]
-          }
-        ]
-      },
-      {
-        "eventType": "talk",
-        "room": null,
-        "slotId": "slot-10",
-        "timeStart": 1667024100000,
-        "timeEnd": 1667025900000,
-        "slotFeedBack": false,
-        "tracks": [
+          },
           {
-            "trackId": "event13",
+            "trackId": "event17",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -307,20 +374,90 @@
                 "externalLink": "https://www.linkedin.com/in/vishwasnavadak/"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "eventType": "talk",
+        "room": null,
+        "slotId": "slot-12",
+        "timeStart": 1667026800000,
+        "timeEnd": 1667028300000,
+        "slotFeedBack": false,
+        "tracks": [
           {
-            "trackId": "event14",
+            "trackId": "event18",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "How to run containers without ruining your business or the planet using FinOps",
+            "title": "Sometopic",
             "speakers": [
               {
-                "firstName": "David",
-                "lastName": " Sterz",
-                "profilePicture": "David.jpg",
-                "designation": "Solutions Architect / FinOps, Mindcurv Group",
-                "externalLink": "https://www.linkedin.com/in/david-sterz-679a938/"
+                "firstName": "Binu",
+                "lastName": " Sebastian",
+                "profilePicture": "binu.jpg",
+                "designation": "Web Developer, Antstack",
+                "externalLink": "https://www.linkedin.com/in/binu-sebastian-2a0aa8131/"
+              }
+            ]
+          },
+          {
+            "trackId": "event19",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Sometopic",
+            "speakers": [
+              {
+                "firstName": "Some",
+                "lastName": " One",
+                "profilePicture": "speaker.jpg",
+                "designation": "Sedai",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          },
+          {
+            "trackId": "event20",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Careers in Cloud - 12:30-13:15",
+            "speakers": [
+              {
+                "firstName": "Megha",
+                "lastName": " Arora",
+                "profilePicture": "meghaaurora.jpg",
+                "designation": "Staff Developer Advocate, MongoDB",
+                "externalLink": "https://www.linkedin.com/in/arora-megha/"
+              },
+              {
+                "firstName": "Deepika",
+                "lastName": " Nair",
+                "profilePicture": "deepika.jpg",
+                "designation": "Training Delivery Manager, AWS",
+                "externalLink": "https://www.linkedin.com/in/deepikanair-aws/"
+              },
+              {
+                "firstName": "Ridhima",
+                "lastName": " Kapoor",
+                "profilePicture": "ridhima.jpeg",
+                "designation": "Developer Marketing Manager, AWS",
+                "externalLink": "https://www.linkedin.com/in/kapoor-ridhima/"
+              },
+              {
+                "firstName": "Badri",
+                "lastName": " ",
+                "profilePicture": "speaker.jpg",
+                "designation": "Ethunus",
+                "externalLink": "https://communityday.awsugkochi.in"
+              },
+              {
+                "firstName": "Mohan",
+                "lastName": " Thomas",
+                "profilePicture": "speaker.jpg",
+                "designation": "Director and CEO, HiFX",
+                "externalLink": "https://www.linkedin.com/in/mohanhifx/"
               }
             ]
           }
@@ -330,13 +467,13 @@
         "eventType": "break",
         "img": "lunch_break",
         "room": null,
-        "slotId": "slot-11",
-        "timeStart": 1667029500000,
+        "slotId": "slot-13",
+        "timeStart": 1667028600000,
         "timeEnd": 1667032200000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event15",
+            "trackId": "event21",
             "selectedFlag": "default",
             "trackLength": 4,
             "title": "Lunch"
@@ -346,13 +483,13 @@
       {
         "eventType": "talk",
         "room": null,
-        "slotId": "slot-12",
+        "slotId": "slot-14",
         "timeStart": 1667032200000,
-        "timeEnd": 1667034000000,
+        "timeEnd": 1667033700000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event16",
+            "trackId": "event22",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -368,7 +505,7 @@
             ]
           },
           {
-            "trackId": "event17",
+            "trackId": "event23",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -382,19 +519,42 @@
                 "externalLink": "https://www.linkedin.com/in/sukumaransujith/"
               }
             ]
+          },
+          {
+            "trackId": "event24",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Web3 on AWS",
+            "speakers": [
+              {
+                "firstName": "Ganesh",
+                "lastName": " Sawhney",
+                "profilePicture": "speaker.jpg",
+                "designation": "AWS",
+                "externalLink": "https://communityday.awsugkochi.in"
+              },
+              {
+                "firstName": "Krishna",
+                "lastName": " Chakka",
+                "profilePicture": "speaker.jpg",
+                "designation": "AWS",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
           }
         ]
       },
       {
         "eventType": "talk",
         "room": null,
-        "slotId": "slot-13",
+        "slotId": "slot-15",
         "timeStart": 1667034000000,
-        "timeEnd": 1667035800000,
+        "timeEnd": 1667035500000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event18",
+            "trackId": "event25",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -410,18 +570,41 @@
             ]
           },
           {
-            "trackId": "event19",
+            "trackId": "event26",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Do the right thing, shift left!",
+            "title": "Sometopic",
             "speakers": [
               {
-                "firstName": "Jayesh",
-                "lastName": " Bapu Ahire",
-                "profilePicture": "Jayesh.jpg",
-                "designation": "Founding Product Manager, TraceableAI",
-                "externalLink": "https://www.linkedin.com/in/jayesh-ahire/"
+                "firstName": "Karan",
+                "lastName": " M V",
+                "profilePicture": "karan.jpg",
+                "designation": "Github",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          },
+          {
+            "trackId": "event27",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Web3 on AWS",
+            "speakers": [
+              {
+                "firstName": "Ganesh",
+                "lastName": " Sawhney",
+                "profilePicture": "speaker.jpg",
+                "designation": "AWS",
+                "externalLink": "https://communityday.awsugkochi.in"
+              },
+              {
+                "firstName": "Krishna",
+                "lastName": " Chakka",
+                "profilePicture": "speaker.jpg",
+                "designation": "AWS",
+                "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
           }
@@ -430,13 +613,13 @@
       {
         "eventType": "talk",
         "room": null,
-        "slotId": "slot-14",
+        "slotId": "slot-16",
         "timeStart": 1667035800000,
-        "timeEnd": 1667037600000,
+        "timeEnd": 1667037300000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event20",
+            "trackId": "event28",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -452,7 +635,86 @@
             ]
           },
           {
-            "trackId": "event21",
+            "trackId": "event29",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Do the right thing, shift left!",
+            "speakers": [
+              {
+                "firstName": "Jayesh",
+                "lastName": " Bapu Ahire",
+                "profilePicture": "Jayesh.jpg",
+                "designation": "Founding Product Manager, TraceableAI",
+                "externalLink": "https://www.linkedin.com/in/jayesh-ahire/"
+              }
+            ]
+          },
+          {
+            "trackId": "event30",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Modern Apps",
+            "speakers": [
+              {
+                "firstName": "Mani",
+                "lastName": " Chandrasekaran",
+                "profilePicture": "manic.jpg",
+                "designation": "Principal Solutions Architect, AWS",
+                "externalLink": "https://www.linkedin.com/in/cmanikandan/"
+              },
+              {
+                "firstName": "Suresh",
+                "lastName": " Mathew",
+                "profilePicture": "suresh.jpg",
+                "designation": "Founder and CEO, Sedai",
+                "externalLink": "https://www.linkedin.com/in/sureshmathew/"
+              },
+              {
+                "firstName": "Arun",
+                "lastName": " Mohan",
+                "profilePicture": "speaker.jpg",
+                "designation": "Adfolks",
+                "externalLink": "https://communityday.awsugkochi.in"
+              },
+              {
+                "firstName": "Prashanth",
+                "lastName": " H N",
+                "profilePicture": "speaker.jpg",
+                "designation": "Antstack",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventType": "talk",
+        "room": null,
+        "slotId": "slot-17",
+        "timeStart": 1667037600000,
+        "timeEnd": 1667039100000,
+        "slotFeedBack": false,
+        "tracks": [
+          {
+            "trackId": "event31",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Live Migration to MongoDB Atlas on AWS",
+            "speakers": [
+              {
+                "firstName": "Gautham",
+                "lastName": " ",
+                "profilePicture": "speaker.jpg",
+                "designation": "Ethunus",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          },
+          {
+            "trackId": "event32",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
@@ -466,6 +728,43 @@
                 "externalLink": "https://www.linkedin.com/in/runcyoommen/"
               }
             ]
+          },
+          {
+            "trackId": "event33",
+            "selectedFlag": "notSelected",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "Modern Apps",
+            "speakers": [
+              {
+                "firstName": "Mani",
+                "lastName": " Chandrasekaran",
+                "profilePicture": "manic.jpg",
+                "designation": "Principal Solutions Architect, AWS",
+                "externalLink": "https://www.linkedin.com/in/cmanikandan/"
+              },
+              {
+                "firstName": "Suresh",
+                "lastName": " Mathew",
+                "profilePicture": "suresh.jpg",
+                "designation": "Founder and CEO, Sedai",
+                "externalLink": "https://www.linkedin.com/in/sureshmathew/"
+              },
+              {
+                "firstName": "Arun",
+                "lastName": " Mohan",
+                "profilePicture": "speaker.jpg",
+                "designation": "Adfolks",
+                "externalLink": "https://communityday.awsugkochi.in"
+              },
+              {
+                "firstName": "Prashanth",
+                "lastName": " H N",
+                "profilePicture": "speaker.jpg",
+                "designation": "Antstack",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
           }
         ]
       },
@@ -473,13 +772,13 @@
         "eventType": "break",
         "img": "tea_break",
         "room": null,
-        "slotId": "slot-15",
+        "slotId": "slot-18",
         "timeStart": 1667039400000,
-        "timeEnd": 1667040600000,
+        "timeEnd": 1667041200000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event22",
+            "trackId": "event34",
             "selectedFlag": "default",
             "trackLength": 4,
             "title": "Evening Tea Break - Go grab a cup of tea and visit our sponsors booths"
@@ -490,13 +789,13 @@
         "eventType": "other",
         "img": "default",
         "room": null,
-        "slotId": "slot-16",
-        "timeStart": 1667040600000,
+        "slotId": "slot-19",
+        "timeStart": 1667041200000,
         "timeEnd": 1667041800000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event23",
+            "trackId": "event35",
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
@@ -508,6 +807,60 @@
                 "profilePicture": "speaker.jpg",
                 "designation": "Awesome people, Awesome Company",
                 "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventType": "other",
+        "img": "default",
+        "room": null,
+        "slotId": "slot-20",
+        "timeStart": 1667041800000,
+        "timeEnd": 1667042400000,
+        "slotFeedBack": false,
+        "tracks": [
+          {
+            "trackId": "event36",
+            "selectedFlag": "default",
+            "trackLength": 4,
+            "feedBack": false,
+            "title": "Sponsor Talk",
+            "speakers": [
+              {
+                "firstName": "Some",
+                "lastName": "Awesome People",
+                "profilePicture": "speaker.jpg",
+                "designation": "Awesome people, Awesome Company",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventType": "other",
+        "img": "default",
+        "room": null,
+        "slotId": "slot-21",
+        "timeStart": 1667042400000,
+        "timeEnd": 1667043000000,
+        "slotFeedBack": false,
+        "tracks": [
+          {
+            "trackId": "event37",
+            "selectedFlag": "default",
+            "trackLength": 4,
+            "feedBack": false,
+            "title": "Community Updates",
+            "speakers": [
+              {
+                "firstName": "Ridhima",
+                "lastName": " Kapoor",
+                "profilePicture": "ridhima.jpeg",
+                "designation": "Developer Marketing Manager, AWS",
+                "externalLink": "https://www.linkedin.com/in/kapoor-ridhima/"
               }
             ]
           }

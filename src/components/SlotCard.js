@@ -56,7 +56,7 @@ const SlotCard = ({ eventData, selectTrack }) => {
             {eventData.tracks.length > 1 ? (
               <div css={slot_track}>
                 {" "}
-                Track - {index + 1} {(index === 0 || index === 1) ? "(Session)" : "(Discussion)"}
+                Track - {index + 1} {(index === 0 || index === 1) ? "(Session)" : "(Session/Discussion)"}
               </div>
             ) : null}
 
