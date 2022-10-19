@@ -48,7 +48,7 @@ const Nav = () => {
         </a>
         <ul css={sub_menu}>
           <li className="faq ico large">
-            <Link to="/Volunteers">Volunteers</Link>
+            <Link to="/Volunteers">Organizers</Link>
           </li>
           <li className="contact ico large">
             <Link to="/Sponsers">Sponsors</Link>
@@ -166,7 +166,7 @@ const lanyard_logo = css`
   display: block;
   margin: 15px 0;
   &:before {
-    content: "Powered by";
+    content: "Organized by";
     display: block;
     font-size: 12px;
     width: 100%;

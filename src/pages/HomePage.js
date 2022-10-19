@@ -14,7 +14,7 @@ const HomePage = () => {
       <EventCard />
       <Nav />
       <p css={copyRight}>
-        <small>Powered by Lanyard &copy; 2019 all rights reserved.</small>
+        <small>Powered by Antstack &copy; 2022 all rights reserved.</small>
       </p>
     </Fragment>
   )
