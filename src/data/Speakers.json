@@ -138,6 +138,12 @@
           "lastName": "Bhalgat",
           "profileLink": "https://www.linkedin.com/in/shlokabhalgat/",
           "profileImageFileName": "shloka.jpg"
+        },
+        {
+          "firstName": "Ganesh",
+          "lastName": "Sawhney",
+          "profileLink": "https://www.linkedin.com/in/ganeshsawhney/",
+          "profileImageFileName": "Ganesh.jpg"
         }
       ]
     }
