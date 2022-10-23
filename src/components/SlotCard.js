@@ -81,7 +81,7 @@ const SlotCard = ({ eventData, selectTrack }) => {
                   </small>
                 ))}
             </div>
-            {eventData.eventType !== "break" && eventData.timeEnd <= _.now() ? (
+            {/*eventData.eventType !== "break" && eventData.timeEnd <= _.now() ? (
               <Fragment>
                 {eventData.slotFeedBack ? (
                   <Fragment>
@@ -98,6 +98,15 @@ const SlotCard = ({ eventData, selectTrack }) => {
                     <RatingStars slot={eventData} track={track} />
                   </Fragment>
                 )}
+              </Fragment>
+                ) : null*/}
+            {eventData.eventType !== "break" && eventData.timeEnd <= _.now() ? (
+              <Fragment>
+                <div css={slot_track}>
+                  <small>
+                  Session over. Hope you enjoyed it!
+                  </small>
+                </div>
               </Fragment>
             ) : null}
             <div css={slot_action}>

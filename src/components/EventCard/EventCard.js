@@ -51,7 +51,8 @@ const EventCard = () => {
     return images;
   }
 
-  const images = importAll(require.context('../../images/speakers', false, /\.(png|jpg|svg)$/));
+  const images = importAll(require.context('../../images/speakers', false, /\.(png|jpe?g|svg)$/));
+  console.log(images)
 
 
   useEffect(() => {
@@ -177,7 +178,8 @@ const EventCard = () => {
                           >
                             <span className="profimg">
                               { /*<img src={defDP} alt="image"/>*/}
-                              <img src={images[speaker.profilePicture]} alt={speaker.profilePicture} />
+                              {/*<img src={images[speaker.profilePicture]} alt={speaker.profilePicture} />*/}
+                              <img src={images[speaker.profilePicture].default} alt={speaker.profilePicture} />
                             </span>{" "}
                             <span>{speaker.firstName}</span>
                           </div>
@@ -249,7 +251,7 @@ const EventCard = () => {
             <label>
               Event has ended. Thank you for your support
             </label>
-            {/*<RatingStars large overAllFeedback />*/}
+            {<RatingStars large overAllFeedback />}
           </div>
         </Fragment>
       ) : (
