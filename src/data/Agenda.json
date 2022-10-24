@@ -20,29 +20,11 @@
         ]
       },
       {
-        "eventType": "break",
-        "img": "check-in",
-        "room": null,
-        "slotId": "slot-2",
-        "timeStart": 1667013300000,
-        "timeEnd": 1667013900000,
-        "slotFeedBack": false,
-        "tracks": [
-          {
-            "trackId": "event2",
-            "selectedFlag": "default",
-            "trackLength": 4,
-            "feedBack": false,
-            "title": "Introduction - AWS User Group Kochi"
-          }
-        ]
-      },
-      {
         "eventType": "other",
         "img": "welcome",
         "room": null,
         "slotId": "slot-3",
-        "timeStart": 1667013900000,
+        "timeStart": 1667013300000,
         "timeEnd": 1667014200000,
         "slotFeedBack": false,
         "tracks": [
@@ -111,14 +93,14 @@
                 "firstName": "Gustavo",
                 "lastName": " Recio",
                 "profilePicture": "gustavo.jpg",
-                "designation": "Software Architect, Mindcurv",
+                "designation": "Software Architect, Mindcurv Group",
                 "externalLink": "https://www.linkedin.com/in/gustavo-recio-6697312/"
               },
               {
                 "firstName": "Giriraj",
                 "lastName": " Rajasekharan",
                 "profilePicture": "giriraj.jpg",
-                "designation": "Cloud Infrastructure Architect, Mindcurv",
+                "designation": "Cloud Infrastructure Architect, Mindcurv Group",
                 "externalLink": "https://www.linkedin.com/in/giriraj-rajasekharan-754b4046/"
               }
             ]
@@ -166,14 +148,14 @@
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
-            "title": "Sometopic",
+            "title": "Cloud professional growth: Various growth personas and potentials",
             "speakers": [
               {
-                "firstName": "Unknown",
-                "lastName": " Speaker",
-                "profilePicture": "speaker.jpg",
-                "designation": "Adfolks",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "firstName": "Arun",
+                "lastName": " Mohan",
+                "profilePicture": "arunmohan.jpg",
+                "designation": "Founder and CEO, Adfolks LLC",
+                "externalLink": "https://www.linkedin.com/in/linuxmohan/"
               }
             ]
           }
@@ -241,14 +223,14 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Security",
+            "title": "AWS CloudOps made simpler with OSS",
             "speakers": [
               {
                 "firstName": "Shloka",
                 "lastName": " Bhalgat",
                 "profilePicture": "shloka.jpg",
-                "designation": "Technical Community Manager, Harness",
-                "externalLink": "https://www.linkedin.com/in/prithvi1307/"
+                "designation": "Senior Member of Technical Staff, unSkript",
+                "externalLink": "https://www.linkedin.com/in/shlokabhalgat/"
               }
             ]
           }
@@ -289,7 +271,7 @@
                 "firstName": "Ashmil",
                 "lastName": " Hussain",
                 "profilePicture": "Ashmil.jpg",
-                "designation": "Senior Software Engineer, Adfolks",
+                "designation": "Senior Software Engineer, Adfolks LLC",
                 "externalLink": "https://www.linkedin.com/in/ashmil-hussain-444906a2/"
               }
             ]
@@ -305,7 +287,7 @@
                 "firstName": "Ansil",
                 "lastName": " H",
                 "profilePicture": "ansilh.jpg",
-                "designation": "Lead Site Reliability Engineer, Armorblox",
+                "designation": "Lead SRE, Armorblox",
                 "externalLink": "https://www.linkedin.com/in/ansilh/"
               }
             ]
@@ -331,7 +313,7 @@
                 "firstName": "Jones Zachariah",
                 "lastName": " Noel N",
                 "profilePicture": "jonesnoel.jpg",
-                "designation": "Sr Developer Advocate, Freshwork",
+                "designation": "Sr Developer Advocate, Freshworks",
                 "externalLink": "https://www.linkedin.com/in/jones-zachariah-noel-n/"
               }
             ]
@@ -363,14 +345,14 @@
                 "firstName": "Aman",
                 "lastName": " Narayan",
                 "profilePicture": "Aman.jpg",
-                "designation": "Software Developer, AntStack",
+                "designation": "Software Developer, Antstack Technologies Pvt Ltd",
                 "externalLink": "https://www.linkedin.com/in/aman-n1/"
               },
               {
                 "firstName": "Vishwas",
                 "lastName": " Navada K",
                 "profilePicture": "Vishwas.jpg",
-                "designation": "Engineering Manager, AntStack",
+                "designation": "Engineering Manager, Antstack Technologies Pvt Ltd",
                 "externalLink": "https://www.linkedin.com/in/vishwasnavadak/"
               }
             ]
@@ -390,14 +372,14 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Sometopic",
+            "title": "Data Engineering on Databricks and AWS Serverless",
             "speakers": [
               {
                 "firstName": "Binu",
                 "lastName": " Sebastian",
                 "profilePicture": "binu.jpg",
-                "designation": "Web Developer, Antstack",
-                "externalLink": "https://www.linkedin.com/in/binu-sebastian-2a0aa8131/"
+                "designation": "Data Engineer, Antstack Technologies Pvt Ltd",
+                "externalLink": "https://www.linkedin.com/in/binu-sebastian-2a0aa8131"
               }
             ]
           },
@@ -406,13 +388,13 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Sometopic",
+            "title": "TBD",
             "speakers": [
               {
-                "firstName": "Some",
-                "lastName": " One",
+                "firstName": "TBD",
+                "lastName": " ",
                 "profilePicture": "speaker.jpg",
-                "designation": "Sedai",
+                "designation": "TBD",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
@@ -422,7 +404,7 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Careers in Cloud - 12:30-13:15",
+            "title": "Cloud Careers - 12:30-13:15",
             "speakers": [
               {
                 "firstName": "Megha",
@@ -446,16 +428,16 @@
                 "externalLink": "https://www.linkedin.com/in/kapoor-ridhima/"
               },
               {
-                "firstName": "Badri",
-                "lastName": " ",
-                "profilePicture": "speaker.jpg",
-                "designation": "Ethunus",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "firstName": "Badrinath",
+                "lastName": " Lingaraju",
+                "profilePicture": "badri.jpg",
+                "designation": "Founder, Ethnus",
+                "externalLink": "https://www.linkedin.com/in/badrinathlingaraju/"
               },
               {
                 "firstName": "Mohan",
                 "lastName": " Thomas",
-                "profilePicture": "speaker.jpg",
+                "profilePicture": "mohan.jpg",
                 "designation": "Director and CEO, HiFX",
                 "externalLink": "https://www.linkedin.com/in/mohanhifx/"
               }
@@ -499,7 +481,7 @@
                 "firstName": "Vivek",
                 "lastName": " Raja P S",
                 "profilePicture": "vivekraja.jpg",
-                "designation": "Vice President of Products, NexStem",
+                "designation": "AWS ML Hero, Vice President of Products, NexStem",
                 "externalLink": "https://www.linkedin.com/in/vivek0712/"
               }
             ]
@@ -509,14 +491,14 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "DevSecOps on AWS - Building Security into the CI/CD pipelines",
+            "title": "Designing a platform agnostic High Availability system",
             "speakers": [
               {
-                "firstName": "Sujith",
-                "lastName": " Sukumaran",
-                "profilePicture": "sujith_sukumaran.jpg",
-                "designation": "AWS Community Builder, Manager Quality Engineering, Testlio",
-                "externalLink": "https://www.linkedin.com/in/sukumaransujith/"
+                "firstName": "Runcy",
+                "lastName": "Oommen",
+                "profilePicture": "runcy.jpg",
+                "designation": "Director, Software Engineering SonicWall",
+                "externalLink": "https://www.linkedin.com/in/runcyoommen/"
               }
             ]
           },
@@ -525,20 +507,34 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Web3 on AWS",
+            "title": "Modern Apps - 14:00 - 14:45",
             "speakers": [
               {
-                "firstName": "Ganesh",
-                "lastName": " Sawhney",
-                "profilePicture": "Ganesh.jpg",
-                "designation": "Senior Partner Solutions Architect, AWS",
-                "externalLink": "https://www.linkedin.com/in/ganeshsawhney/"
+                "firstName": "Mani",
+                "lastName": " Chandrasekaran",
+                "profilePicture": "manic.jpg",
+                "designation": "Principal Solutions Architect, AWS",
+                "externalLink": "https://www.linkedin.com/in/cmanikandan/"
               },
               {
-                "firstName": "Krishna",
-                "lastName": " Chakka",
+                "firstName": "Suresh",
+                "lastName": " Mathew",
+                "profilePicture": "suresh.jpg",
+                "designation": "Founder and CEO, Sedai",
+                "externalLink": "https://www.linkedin.com/in/sureshmathew/"
+              },
+              {
+                "firstName": "Arun",
+                "lastName": " Mohan",
                 "profilePicture": "speaker.jpg",
-                "designation": "AWS",
+                "designation": "Adfolks",
+                "externalLink": "https://communityday.awsugkochi.in"
+              },
+              {
+                "firstName": "Prashanth",
+                "lastName": " H N",
+                "profilePicture": "speaker.jpg",
+                "designation": "Antstack",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
@@ -574,13 +570,13 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Sometopic",
+            "title": "Securing workflows with GitHub Actions and AWS",
             "speakers": [
               {
                 "firstName": "Karan",
                 "lastName": " M V",
                 "profilePicture": "karan.jpg",
-                "designation": "Github",
+                "designation": "Sr. Manager, International DevRel, GitHub",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
@@ -590,20 +586,34 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Web3 on AWS",
+            "title": "Modern Apps - 14:00 - 14:45",
             "speakers": [
               {
-                "firstName": "Ganesh",
-                "lastName": " Sawhney",
+                "firstName": "Mani",
+                "lastName": " Chandrasekaran",
+                "profilePicture": "manic.jpg",
+                "designation": "Principal Solutions Architect, AWS",
+                "externalLink": "https://www.linkedin.com/in/cmanikandan/"
+              },
+              {
+                "firstName": "Suresh",
+                "lastName": " Mathew",
+                "profilePicture": "suresh.jpg",
+                "designation": "Founder and CEO, Sedai",
+                "externalLink": "https://www.linkedin.com/in/sureshmathew/"
+              },
+              {
+                "firstName": "Arun",
+                "lastName": " Mohan",
                 "profilePicture": "speaker.jpg",
-                "designation": "AWS",
+                "designation": "Adfolks",
                 "externalLink": "https://communityday.awsugkochi.in"
               },
               {
-                "firstName": "Krishna",
-                "lastName": " Chakka",
+                "firstName": "Prashanth",
+                "lastName": " H N",
                 "profilePicture": "speaker.jpg",
-                "designation": "AWS",
+                "designation": "Antstack",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
@@ -655,34 +665,20 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Modern Apps",
+            "title": "Web3 on AWS - 15:00 - 15:45",
             "speakers": [
               {
-                "firstName": "Mani",
-                "lastName": " Chandrasekaran",
-                "profilePicture": "manic.jpg",
-                "designation": "Principal Solutions Architect, AWS",
-                "externalLink": "https://www.linkedin.com/in/cmanikandan/"
+                "firstName": "Ganesh",
+                "lastName": " Sawhney",
+                "profilePicture": "Ganesh.jpg",
+                "designation": "Senior Partner Solutions Architect, AWS",
+                "externalLink": "https://www.linkedin.com/in/ganeshsawhney/"
               },
               {
-                "firstName": "Suresh",
-                "lastName": " Mathew",
-                "profilePicture": "suresh.jpg",
-                "designation": "Founder and CEO, Sedai",
-                "externalLink": "https://www.linkedin.com/in/sureshmathew/"
-              },
-              {
-                "firstName": "Arun",
-                "lastName": " Mohan",
+                "firstName": "Krishna",
+                "lastName": " Chakka",
                 "profilePicture": "speaker.jpg",
-                "designation": "Adfolks",
-                "externalLink": "https://communityday.awsugkochi.in"
-              },
-              {
-                "firstName": "Prashanth",
-                "lastName": " H N",
-                "profilePicture": "speaker.jpg",
-                "designation": "Antstack",
+                "designation": "AWS",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
@@ -702,13 +698,13 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "AI/ML",
+            "title": "TBD",
             "speakers": [
               {
-                "firstName": "Gautham",
+                "firstName": "TBD",
                 "lastName": " ",
                 "profilePicture": "speaker.jpg",
-                "designation": "Ethunus",
+                "designation": "TBD",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
@@ -718,14 +714,14 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Designing a platform agnostic High Availability system",
+            "title": "DevSecOps on AWS - Building Security into the CI/CD pipelines",
             "speakers": [
               {
-                "firstName": "Runcy",
-                "lastName": "Oommen",
-                "profilePicture": "runcy.jpg",
-                "designation": "Director, Software Engineering SonicWall",
-                "externalLink": "https://www.linkedin.com/in/runcyoommen/"
+                "firstName": "Sujith",
+                "lastName": " Sukumaran",
+                "profilePicture": "sujith_sukumaran.jpg",
+                "designation": "AWS Community Builder, Manager Quality Engineering, Testlio",
+                "externalLink": "https://www.linkedin.com/in/sukumaransujith/"
               }
             ]
           },
@@ -734,34 +730,20 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Modern Apps",
+            "title": "Web3 on AWS - 15:00 - 15:45",
             "speakers": [
               {
-                "firstName": "Mani",
-                "lastName": " Chandrasekaran",
-                "profilePicture": "manic.jpg",
-                "designation": "Principal Solutions Architect, AWS",
-                "externalLink": "https://www.linkedin.com/in/cmanikandan/"
+                "firstName": "Ganesh",
+                "lastName": " Sawhney",
+                "profilePicture": "Ganesh.jpg",
+                "designation": "Senior Partner Solutions Architect, AWS",
+                "externalLink": "https://www.linkedin.com/in/ganeshsawhney/"
               },
               {
-                "firstName": "Suresh",
-                "lastName": " Mathew",
-                "profilePicture": "suresh.jpg",
-                "designation": "Founder and CEO, Sedai",
-                "externalLink": "https://www.linkedin.com/in/sureshmathew/"
-              },
-              {
-                "firstName": "Arun",
-                "lastName": " Mohan",
+                "firstName": "Krishna",
+                "lastName": " Chakka",
                 "profilePicture": "speaker.jpg",
-                "designation": "Adfolks",
-                "externalLink": "https://communityday.awsugkochi.in"
-              },
-              {
-                "firstName": "Prashanth",
-                "lastName": " H N",
-                "profilePicture": "speaker.jpg",
-                "designation": "Antstack",
+                "designation": "AWS",
                 "externalLink": "https://communityday.awsugkochi.in"
               }
             ]
@@ -774,7 +756,7 @@
         "room": null,
         "slotId": "slot-18",
         "timeStart": 1667039400000,
-        "timeEnd": 1667041200000,
+        "timeEnd": 1667040600000,
         "slotFeedBack": false,
         "tracks": [
           {
@@ -790,8 +772,8 @@
         "img": "default",
         "room": null,
         "slotId": "slot-19",
-        "timeStart": 1667041200000,
-        "timeEnd": 1667041800000,
+        "timeStart": 1667040600000,
+        "timeEnd": 1667041200000,
         "slotFeedBack": false,
         "tracks": [
           {
@@ -799,66 +781,12 @@
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,
-            "title": "Sponsor Talk",
-            "speakers": [
-              {
-                "firstName": "Some",
-                "lastName": "Awesome People",
-                "profilePicture": "speaker.jpg",
-                "designation": "Awesome people, Awesome Company",
-                "externalLink": "https://communityday.awsugkochi.in"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "eventType": "other",
-        "img": "default",
-        "room": null,
-        "slotId": "slot-20",
-        "timeStart": 1667041800000,
-        "timeEnd": 1667042400000,
-        "slotFeedBack": false,
-        "tracks": [
-          {
-            "trackId": "event36",
-            "selectedFlag": "default",
-            "trackLength": 4,
-            "feedBack": false,
-            "title": "Sponsor Talk",
-            "speakers": [
-              {
-                "firstName": "Some",
-                "lastName": "Awesome People",
-                "profilePicture": "speaker.jpg",
-                "designation": "Awesome people, Awesome Company",
-                "externalLink": "https://communityday.awsugkochi.in"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "eventType": "other",
-        "img": "default",
-        "room": null,
-        "slotId": "slot-21",
-        "timeStart": 1667042400000,
-        "timeEnd": 1667043000000,
-        "slotFeedBack": false,
-        "tracks": [
-          {
-            "trackId": "event37",
-            "selectedFlag": "default",
-            "trackLength": 4,
-            "feedBack": false,
-            "title": "Community Updates",
+            "title": "AWS Community Updates",
             "speakers": [
               {
                 "firstName": "Ridhima",
                 "lastName": " Kapoor",
-                "profilePicture": "ridhima.jpeg",
+                "profilePicture": "ridhima.jpg",
                 "designation": "Developer Marketing Manager, AWS",
                 "externalLink": "https://www.linkedin.com/in/kapoor-ridhima/"
               }
@@ -870,13 +798,67 @@
         "eventType": "other",
         "img": "default",
         "room": null,
-        "slotId": "slot-17",
+        "slotId": "slot-20",
+        "timeStart": 1667041200000,
+        "timeEnd": 1667041800000,
+        "slotFeedBack": false,
+        "tracks": [
+          {
+            "trackId": "event36",
+            "selectedFlag": "default",
+            "trackLength": 4,
+            "feedBack": false,
+            "title": "Sponsor Talk",
+            "speakers": [
+              {
+                "firstName": "Badrinath",
+                "lastName": " Lingaraju",
+                "profilePicture": "badri.jpg",
+                "designation": "Founder, Ethnus",
+                "externalLink": "https://www.linkedin.com/in/badrinathlingaraju/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventType": "other",
+        "img": "default",
+        "room": null,
+        "slotId": "slot-21",
         "timeStart": 1667041800000,
+        "timeEnd": 1667042400000,
+        "slotFeedBack": false,
+        "tracks": [
+          {
+            "trackId": "event37",
+            "selectedFlag": "default",
+            "trackLength": 4,
+            "feedBack": false,
+            "title": "Sponsor Talk",
+            "speakers": [
+              {
+                "firstName": "TBD",
+                "lastName": "",
+                "profilePicture": "speaker.jpg",
+                "designation": "TBD",
+                "externalLink": "https://communityday.awsugkochi.in"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "eventType": "other",
+        "img": "default",
+        "room": null,
+        "slotId": "slot-22",
+        "timeStart": 1667042400000,
         "timeEnd": 1667043000000,
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event24",
+            "trackId": "event38",
             "selectedFlag": "default",
             "trackLength": 4,
             "feedBack": false,

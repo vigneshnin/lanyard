@@ -144,6 +144,30 @@
           "lastName": "Sawhney",
           "profileLink": "https://www.linkedin.com/in/ganeshsawhney/",
           "profileImageFileName": "Ganesh.jpg"
+        },
+        {
+          "firstName": "Mohan",
+          "lastName": "Thomas",
+          "profileLink": "https://www.linkedin.com/in/mohanhifx/",
+          "profileImageFileName": "mohan.jpg"
+        },
+        {
+          "firstName": "Jeevan",
+          "lastName": "Dongre",
+          "profileLink": "https://www.linkedin.com/in/jeevandongre/",
+          "profileImageFileName": "jeevan.jpg"
+        },
+        {
+          "firstName": "Badrinath",
+          "lastName": "Lingaraju",
+          "profileLink": "https://www.linkedin.com/in/badrinathlingaraju/",
+          "profileImageFileName": "badri.jpg"
+        },
+        {
+          "firstName": "Arun",
+          "lastName": "Mohan",
+          "profileLink": "https://www.linkedin.com/in/linuxmohan/",
+          "profileImageFileName": "arunmohan.jpg"
         }
       ]
     }
