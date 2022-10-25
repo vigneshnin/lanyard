@@ -146,6 +146,12 @@
           "profileImageFileName": "Ganesh.jpg"
         },
         {
+          "firstName": "Krishna",
+          "lastName": "Chakka",
+          "profileLink": "https://www.linkedin.com/in/krishna-c-8b48a75//",
+          "profileImageFileName": "Krishna.jpg"
+        },
+        {
           "firstName": "Mohan",
           "lastName": "Thomas",
           "profileLink": "https://www.linkedin.com/in/mohanhifx/",
@@ -168,6 +174,24 @@
           "lastName": "Mohan",
           "profileLink": "https://www.linkedin.com/in/linuxmohan/",
           "profileImageFileName": "arunmohan.jpg"
+        },
+        {
+          "firstName": "Goutham",
+          "lastName": "Nanjundaswamy",
+          "profileLink": "https://www.linkedin.com/in/gouthamn/",
+          "profileImageFileName": "goutham.jpg"
+        },
+        {
+          "firstName": "Vinod",
+          "lastName": "Sethumadhavan",
+          "profileLink": "https://www.linkedin.com/in/vinod-sethumadhavan-98a4431a9/",
+          "profileImageFileName": "vinod.jpeg"
+        },
+        {
+          "firstName": "Sreejith",
+          "lastName": "Narayana Pillai",
+          "profileLink": "https://www.linkedin.com/in/tosreejithnt/",
+          "profileImageFileName": "sreejith.jpeg"
         }
       ]
     }

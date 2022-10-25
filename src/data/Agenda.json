@@ -388,14 +388,21 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "TBD",
+            "title": "EKS Workloads and Cluster Optimization",
             "speakers": [
               {
-                "firstName": "TBD",
-                "lastName": " ",
-                "profilePicture": "speaker.jpg",
-                "designation": "TBD",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "firstName": "Vinod",
+                "lastName": " Sethumadavan",
+                "profilePicture": "vinod.jpeg",
+                "designation": "Principal Engineer, Sedai",
+                "externalLink": "https://www.linkedin.com/in/vinod-sethumadhavan-98a4431a9/"
+              },
+              {
+                "firstName": "Sreejith",
+                "lastName": " Narayana Pillai",
+                "profilePicture": "sreejith.jpeg",
+                "designation": "Director Of Engineering, Sedai",
+                "externalLink": "https://www.linkedin.com/in/tosreejithnt/"
               }
             ]
           },
@@ -526,16 +533,23 @@
               {
                 "firstName": "Arun",
                 "lastName": " Mohan",
-                "profilePicture": "speaker.jpg",
-                "designation": "Adfolks",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "profilePicture": "arunmohan.jpg",
+                "designation": "Founder and CEO, Adfolks LLC",
+                "externalLink": "https://www.linkedin.com/in/linuxmohan/"
               },
               {
-                "firstName": "Prashanth",
-                "lastName": " H N",
-                "profilePicture": "speaker.jpg",
-                "designation": "Antstack",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "firstName": "Dhaval",
+                "lastName": " Nagar",
+                "profilePicture": "dhaval.jpg",
+                "designation": "AWS Serverless Hero, Solutions Architect, APPGAMBIT",
+                "externalLink": "https://www.linkedin.com/in/dhavaln/"
+              },
+              {
+                "firstName": "Jeevan",
+                "lastName": " Dongre",
+                "profilePicture": "jeevan.jpg",
+                "designation": "AWS Community Hero, Co-Founder and CE, AntStack",
+                "externalLink": "https://www.linkedin.com/in/jeevandongre/"
               }
             ]
           }
@@ -577,7 +591,7 @@
                 "lastName": " M V",
                 "profilePicture": "karan.jpg",
                 "designation": "Sr. Manager, International DevRel, GitHub",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "externalLink": "https://www.linkedin.com/in/mvkaran/"
               }
             ]
           },
@@ -605,16 +619,23 @@
               {
                 "firstName": "Arun",
                 "lastName": " Mohan",
-                "profilePicture": "speaker.jpg",
-                "designation": "Adfolks",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "profilePicture": "arunmohan.jpg",
+                "designation": "Founder and CEO, Adfolks LLC",
+                "externalLink": "https://www.linkedin.com/in/linuxmohan/"
               },
               {
-                "firstName": "Prashanth",
-                "lastName": " H N",
-                "profilePicture": "speaker.jpg",
-                "designation": "Antstack",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "firstName": "Dhaval",
+                "lastName": " Nagar",
+                "profilePicture": "dhaval.jpg",
+                "designation": "AWS Serverless Hero, Solutions Architect, APPGAMBIT",
+                "externalLink": "https://www.linkedin.com/in/dhavaln/"
+              },
+              {
+                "firstName": "Jeevan",
+                "lastName": " Dongre",
+                "profilePicture": "jeevan.jpg",
+                "designation": "AWS Community Hero, Co-Founder and CE, AntStack",
+                "externalLink": "https://www.linkedin.com/in/jeevandongre/"
               }
             ]
           }
@@ -677,9 +698,9 @@
               {
                 "firstName": "Krishna",
                 "lastName": " Chakka",
-                "profilePicture": "speaker.jpg",
-                "designation": "AWS",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "profilePicture": "Krishna.jpg",
+                "designation": "Senior Solutions Architect – Startup SA, AWS",
+                "externalLink": "https://www.linkedin.com/in/krishna-c-8b48a75/"
               }
             ]
           }
@@ -698,14 +719,14 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "TBD",
+            "title": "Automating image and video analysis with machine learning",
             "speakers": [
               {
-                "firstName": "TBD",
-                "lastName": " ",
-                "profilePicture": "speaker.jpg",
-                "designation": "TBD",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "firstName": "Goutham",
+                "lastName": " Nanjundaswamy",
+                "profilePicture": "goutham.jpg",
+                "designation": "CTO, Director - Product Engineering, Ethnus Codemithra",
+                "externalLink": "https://www.linkedin.com/in/gouthamn/"
               }
             ]
           },
@@ -742,9 +763,9 @@
               {
                 "firstName": "Krishna",
                 "lastName": " Chakka",
-                "profilePicture": "speaker.jpg",
-                "designation": "AWS",
-                "externalLink": "https://communityday.awsugkochi.in"
+                "profilePicture": "Krishna.jpg",
+                "designation": "Senior Solutions Architect – Startup SA, AWS",
+                "externalLink": "https://www.linkedin.com/in/krishna-c-8b48a75/"
               }
             ]
           }

@@ -81,7 +81,7 @@ const SlotCard = ({ eventData, selectTrack }) => {
                   </small>
                 ))}
             </div>
-            {/*eventData.eventType !== "break" && eventData.timeEnd <= _.now() ? (
+            {eventData.eventType !== "break" && eventData.timeEnd <= _.now() ? (
               <Fragment>
                 {eventData.slotFeedBack ? (
                   <Fragment>
@@ -99,8 +99,8 @@ const SlotCard = ({ eventData, selectTrack }) => {
                   </Fragment>
                 )}
               </Fragment>
-                ) : null*/}
-            {eventData.eventType !== "break" && eventData.timeEnd <= _.now() ? (
+            ) : null}
+            {/*eventData.eventType !== "break" && eventData.timeEnd <= _.now() ? (
               <Fragment>
                 <div css={slot_track}>
                   <small>
@@ -108,7 +108,7 @@ const SlotCard = ({ eventData, selectTrack }) => {
                   </small>
                 </div>
               </Fragment>
-            ) : null}
+            ) : null*/}
             <div css={slot_action}>
               {eventData.eventType == "talk" && eventData.tracks.length > 1 && (
                 <button
