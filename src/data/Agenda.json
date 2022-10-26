@@ -223,14 +223,14 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "AWS CloudOps made simpler with OSS",
+            "title": "Designing a platform agnostic High Availability system",
             "speakers": [
               {
-                "firstName": "Shloka",
-                "lastName": " Bhalgat",
-                "profilePicture": "shloka.jpg",
-                "designation": "Senior Member of Technical Staff, unSkript",
-                "externalLink": "https://www.linkedin.com/in/shlokabhalgat/"
+                "firstName": "Runcy",
+                "lastName": "Oommen",
+                "profilePicture": "runcy.jpg",
+                "designation": "Director, Software Engineering SonicWall",
+                "externalLink": "https://www.linkedin.com/in/runcyoommen/"
               }
             ]
           }
@@ -498,14 +498,14 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Designing a platform agnostic High Availability system",
+            "title": "AWS CloudOps made simpler with OSS",
             "speakers": [
               {
-                "firstName": "Runcy",
-                "lastName": "Oommen",
-                "profilePicture": "runcy.jpg",
-                "designation": "Director, Software Engineering SonicWall",
-                "externalLink": "https://www.linkedin.com/in/runcyoommen/"
+                "firstName": "Shloka",
+                "lastName": " Bhalgat",
+                "profilePicture": "shloka.jpg",
+                "designation": "Senior Member of Technical Staff, unSkript",
+                "externalLink": "https://www.linkedin.com/in/shlokabhalgat/"
               }
             ]
           },
