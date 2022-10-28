@@ -170,6 +170,12 @@
           "profileImageFileName": "badri.jpg"
         },
         {
+          "firstName": "Brijin",
+          "lastName": "B Blessen",
+          "profileLink": "https://www.linkedin.com/in/brijinb/",
+          "profileImageFileName": "brijin.jpg"
+        },
+        {
           "firstName": "Arun",
           "lastName": "Mohan",
           "profileLink": "https://www.linkedin.com/in/linuxmohan/",
